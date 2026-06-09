@@ -20,7 +20,7 @@ Some programs change their standard duration depending on the specific date the 
 | **Cyber Security (FT)** | Nov 14, 2024 – Dec 29, 2025<br>Dec 30, 2025 – Feb 12, 2026<br>Feb 13, 2026 – onwards | 91 days<br>112 days<br>119 days | **136 days**<br>**168 days**<br>**178 days** |
 | **Data Science** | Nov 14, 2024 – Mar 09, 2025<br>Mar 10, 2025 – onwards | 224 days<br>231 days | **336 days**<br>**346 days** |
 | **UX/UI Design** | Nov 14, 2024 – May 14, 2025<br>May 15, 2025 – onwards | 140 days<br>147 days | **210 days**<br>**220 days** |
-| **AI Software Eng (PT)** | All Dates *(gap: Jan 23, 2026 – Mar 11, 2026 — not available)* | 168 days | **252 days** |
+| **AI Software Eng (PT)** | Nov 14, 2024 – May 13, 2026 *(gap: Jan 23, 2026 – Mar 11, 2026 — not available)*<br>May 14, 2026 – onwards | 168 days<br>196 days | **252 days**<br>**294 days** |
 | **AI Software Eng (FT)** | All Dates *(gap: Jan 23, 2026 – Mar 11, 2026 — not available)* | 98 days | **147 days** |
 | **AI & Machine Learning** | All Dates | 252 days | **378 days** |
 | **Quality Assurance** | All Dates | 140 days | **210 days** |

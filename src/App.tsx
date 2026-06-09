@@ -113,6 +113,10 @@ const PROGRAMS: Record<string, ProgramFormat> = {
   'AISE_PT': {
     name: 'AI Software Engineering (Part-time)',
     defaultDays: 168,
+    tiers: [
+      { from: parseISO('2024-11-14'), to: parseISO('2026-05-13'), days: 168 },
+      { from: parseISO('2026-05-14'), to: null, days: 196 },
+    ],
     unavailablePeriods: [{ from: '2026-01-23', to: '2026-03-11' }],
   },
   'AISE_FT': {
